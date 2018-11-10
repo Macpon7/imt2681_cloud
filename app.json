@@ -8,8 +8,8 @@
       "example"
     ],
   "image": "heroku/go:1.7",
-  "mount_dir": "src/github.com/marni/imt2681-studentdb",
-  "website": "http://github.com/marni/imt2681-studentdb",
-  "repository": "http://github.com/marni/imt2681-studentdb"
+  "mount_dir": "src/github.com/Macpon7/imt2681-cloud",
+  "website": "http://github.com/Macpon7/imt2681-cloud",
+  "repository": "http://github.com/Macpon7/imt2681-cloud"
 }
 
